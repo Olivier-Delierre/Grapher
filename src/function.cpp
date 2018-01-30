@@ -59,6 +59,8 @@ double function::resolve(double x) const {
     for (int i = 0; i < d_value_number; i++) {
         sum += d_variable_values[i] * pow(x, d_powers[i]);
     }
+
+    return sum;
 }
 
 int function::value_number() const
