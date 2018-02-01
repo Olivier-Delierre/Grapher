@@ -16,7 +16,7 @@ graphical::graphical() :
     d_scale{ 1 } 
 {
     sf::ContextSettings settings;
-    settings.antialiasingLevel = 8;
+    settings.antialiasingLevel = 0;
 
     d_window = new sf::RenderWindow(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "Grapher", sf::Style::Default, settings);
     d_window->setFramerateLimit(FRAMERATE_LIMIT);
@@ -103,5 +103,5 @@ void graphical::draw_axis() {
 }
 
 void graphical::draw_function(const function& f) {
-    d_window->draw(&d_points[0], d_points.size(), sf::Points);
+    d_window->draw(&d_points[0], d_points.size(), sf::LineStrip);
 }
