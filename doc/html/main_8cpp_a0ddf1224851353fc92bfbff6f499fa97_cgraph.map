@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classgraphical.html#af82a69a361f5d986fe06e6defdd2a50b" title="graphical::generate\l_points" alt="" coords="104,153,236,194"/>
+<area shape="rect" id="node9" href="$classgraphical.html#a9c43cdb86516824416f7c368163c65e6" title="graphical::run" alt="" coords="120,320,220,347"/>
+<area shape="rect" id="node3" href="$classcamera.html#afa1f696d475fdbb8f451ea1f116b993c" title="camera::top_left_corner" alt="" coords="688,59,847,86"/>
+<area shape="rect" id="node4" href="$classpoint.html#a898124bcd712f921671c314b4fe62259" title="point::x" alt="" coords="735,219,800,246"/>
+<area shape="rect" id="node5" href="$classcamera.html#a62fe3e7cab25a3457d8d6ec4146335da" title="camera::bottom_right\l_corner" alt="" coords="495,52,640,93"/>
+<area shape="rect" id="node6" href="$classpoint.html#ac610564a79df91882128ca2b1f8e2db3" title="point::y" alt="" coords="535,219,600,246"/>
+<area shape="rect" id="node7" href="$classpoint.html#a9e79cc6eca8c1ea1647c43813c144fed" title="point::setPosition" alt="" coords="304,51,427,78"/>
+<area shape="rect" id="node8" href="$classgraphical.html#abd68bc83344b2e16c586b554b8c23cf2" title="graphical::camera_point\l_to_window_point" alt="" coords="285,153,445,194"/>
+<area shape="rect" id="node10" href="$classgraphical.html#a21c63ea141730d6f09901abcd28df803" title="graphical::draw_axis" alt="" coords="295,320,436,347"/>
+<area shape="rect" id="node11" href="$classgraphical.html#a73536116c79cacdd358d1e1401aad3c7" title="graphical::draw_function" alt="" coords="284,371,447,398"/>
+</map>

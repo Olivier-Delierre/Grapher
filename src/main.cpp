@@ -5,10 +5,7 @@ using namespace std;
 
 int main(int argc, char* argv[]) {
     function f{};
-    f.insert_value(1, 1);
-    f.insert_value(12, 2);
-    f.insert_value(1, 3);
-
+    f.insert_value(-0.1, 2);
     
     graphical g;
     g.generate_points(f);

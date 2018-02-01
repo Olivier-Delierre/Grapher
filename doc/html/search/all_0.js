@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['function',['function',['../classfunction.html',1,'function'],['../classfunction.html#a69b28ca9f98a7e1b5310054d74b9f0f9',1,'function::function()']]],
-  ['function_2ecpp',['function.cpp',['../function_8cpp.html',1,'']]],
-  ['function_2ehpp',['function.hpp',['../function_8hpp.html',1,'']]]
+  ['bottom_5fright_5fcorner',['bottom_right_corner',['../classcamera.html#a62fe3e7cab25a3457d8d6ec4146335da',1,'camera']]]
 ];

@@ -15,7 +15,10 @@ graphical::graphical() :
     d_camera{ point{0,0}, point{0,0} },
     d_scale{ 1 } 
 {
-    d_window = new sf::RenderWindow(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "Grapher");
+    sf::ContextSettings settings;
+    settings.antialiasingLevel = 8;
+
+    d_window = new sf::RenderWindow(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "Grapher", sf::Style::Default, settings);
     d_window->setFramerateLimit(FRAMERATE_LIMIT);
        
     update_camera(); 

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['function_2ecpp',['function.cpp',['../function_8cpp.html',1,'']]],
-  ['function_2ehpp',['function.hpp',['../function_8hpp.html',1,'']]]
+  ['camera_2ecpp',['camera.cpp',['../camera_8cpp.html',1,'']]],
+  ['camera_2ehpp',['camera.hpp',['../camera_8hpp.html',1,'']]]
 ];

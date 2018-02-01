@@ -1,0 +1,6 @@
+<map id="camera::bottom_right_corner" name="camera::bottom_right_corner">
+<area shape="rect" id="node2" href="$classcamera.html#a574b895404481d9b6c16048df7aa63cf" title="camera::camera" alt="" coords="221,5,337,32"/>
+<area shape="rect" id="node3" href="$classgraphical.html#abd68bc83344b2e16c586b554b8c23cf2" title="graphical::camera_point\l_to_window_point" alt="" coords="199,57,359,98"/>
+<area shape="rect" id="node4" href="$classgraphical.html#af82a69a361f5d986fe06e6defdd2a50b" title="graphical::generate\l_points" alt="" coords="407,86,539,127"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="587,93,637,120"/>
+</map>
